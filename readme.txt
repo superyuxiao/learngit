@@ -1,2 +1,1 @@
-hello
-world
+learn git from lxf
